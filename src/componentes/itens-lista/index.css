@@ -1,0 +1,9 @@
+.item-lista {
+  height: 100px;
+  width: 200px;
+  padding: 10px;
+  margin: 10px;
+  line-height: 50px;
+  display: inline-table;
+  border: 1px dashed;
+}
